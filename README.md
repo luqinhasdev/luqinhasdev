@@ -1,4 +1,4 @@
-![snake gif](https://github.com/your-user-name/your-user-name/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/luqinhasdev/luqinhasdev/blob/output/github-contribution-grid-snake.gif)
 
 <div>
   <a href="https://github.com/luqinhasdev">
