@@ -1,5 +1,5 @@
 <div style="display: inline_block">
-  <img width="460px"align="center" alt="Shinji Hirako" src="https://media1.tenor.com/m/ni20ubJXWewAAAAC/shinji-bleach.gif"
+  <img width="455px"align="center" alt="Shinji Hirako" src="https://media1.tenor.com/m/ni20ubJXWewAAAAC/shinji-bleach.gif"
 </div>
 
 <h1> 倒れろ, 逆撫.</h1>
